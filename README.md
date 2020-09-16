@@ -46,6 +46,8 @@ Frames can be reconstituted from their raw byte code by compiling the specificat
 
 * [https://github.com/signalapp/](https://github.com/signalapp/): the codebase for Signal on Github.
 * [https://github.com/xeals/signal-back](https://github.com/xeals/signal-back): a Signal backup file reader implemented in [Go](https://en.wikipedia.org/wiki/Go_(programming_language)). 
+* [https://github.com/bepaald/signalbackup-tools](https://github.com/bepaald/signalbackup-tools): Suite of tools to work with Signal backup files.
+* [https://github.com/GjjvdBurg/signal2html](https://github.com/GjjvdBurg/signal2html): Script to generate HTML files from a Signal backup file (depends on signalbackup-tools).
 
 ## Disclaimer
 
